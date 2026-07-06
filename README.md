@@ -1,2 +1,2 @@
 ﻿# Megnix AI Release Repository
-AIzaSyCwXthXZSumtHW8ntssboWnDVlMYjvzYbA
+
